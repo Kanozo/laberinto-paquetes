@@ -1,0 +1,24 @@
+{
+  "formato": "laberinto-manifiesto/1",
+  "actualizado": "2026-10-19T23:13:42.268426Z",
+  "paquetes": [
+    {
+      "id": "la_edad_de_oro",
+      "nombre": "La Edad de Oro",
+      "descripcion": "¿Cuánto conoces de la Edad de Oro?",
+      "version": 1,
+      "preguntas": 150,
+      "fichero": "paquetes/libres/la_edad_de_oro-v1.labpaq",
+      "sha256": "e774c636419b8798bcfe6b8c835071257a0401f969827f612e5097951eb31f72"
+    },
+    {
+      "id": "tabla_periodica",
+      "nombre": "Tabla Periódica",
+      "descripcion": "Preguntas sobre la Tabla Periódica, su estructura, elementos y propiedades",
+      "version": 1,
+      "preguntas": 60,
+      "fichero": "paquetes/libres/tabla_periodica-v1.labpaq",
+      "sha256": "3e30567e312b66cf5d6a240543bd3c51749af529d953fb1ed551d5229b88a43f"
+    }
+  ]
+}
